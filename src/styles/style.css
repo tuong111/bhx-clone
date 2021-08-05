@@ -1,0 +1,44 @@
+.card {
+    border-radius: 10px;
+    border : solid 1px red;
+}
+
+.item {
+    width: 300px;
+    border:solid 2px green;
+    margin: 10px;
+    padding: 0;
+    text-align: center;
+    background-color: yellow;
+}
+.item-container {
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+img {
+    margin: 0;
+    padding: 0;
+    width: 300px;
+}
+
+.btnBuy {
+    margin: 0;
+    padding: 0;
+    width: 60px;
+    height: 30px;
+    border: solid 1px red;
+    margin-bottom: 10px;
+}
+.btnBuy-active {
+    margin: 0;
+    padding: 0;
+    width: 60px;
+    height: 30px;
+    border: solid 1px red;
+    color : white;
+    background-color: red;
+    margin-bottom: 10px;
+}
